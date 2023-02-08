@@ -7,3 +7,8 @@ const getTests = () => {
 }
 getTests()
 
+function main() {
+  console.log('hello')
+}
+
+main()
